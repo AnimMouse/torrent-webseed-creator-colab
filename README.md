@@ -14,7 +14,7 @@ Your file is then burned into a torrent.
 ## How to use
 1. Open in Google Colaboratory.
 
-[![Open In Colab](https://colab.research.google.com/github/AnimMouse/torrent-webseed-creator-colab/blob/master/Torrent_Webseed_Creator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnimMouse/torrent-webseed-creator-colab/blob/master/Torrent_Webseed_Creator.ipynb)
 
 2. Input data on form.
 
