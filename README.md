@@ -1,4 +1,4 @@
-# Torrent Webseed Creator
+# Torrent Webseed Creator on Colab
 Webseeded Torrent Creator using Google Colaboratory.
 
 Inspired by [BurnBit †](https://web.archive.org/web/20160304022643/http://burnbit.com/) and [URLHash](http://www.urlhash.com/).
@@ -10,6 +10,13 @@ An alternative to BurnBit and URLHash.
 Convert direct HTTP link to .torrent
 
 Your file is then burned into a torrent.
+
+Torrents created are trackerless, relying on Distributed Hash Table and Peer EXchange, to help reduce the burden of torrent trackers.
+
+For people that have unstable internet.\
+Can be paused because it is a torrent.\
+Utilizes the power of peer to peer downloads and the client-server downloads.\
+Combines the best of both worlds (P2P and Direct HTTP Link).
 
 ## How to use
 1. Open in Google Colaboratory.
@@ -45,4 +52,4 @@ Source: [Seedboxes.cc](https://community.seedboxes.cc/articles/how-to-create-a-t
 2. Change Runtime Type and give GPU or TPU as the Hardware Accelerator.
 
 ## Difference on GitHub Actions version
-The [GitHub Actions](https://github.com/AnimMouse/torrent-webseed-creator) version of this program has a soft limit of ≈25 GB, this Google Colaboratory version has a soft limit of ≈100 GB.
+This Google Colaboratory version has a soft limit of ≈100 GB, The [GitHub Actions](https://github.com/AnimMouse/torrent-webseed-creator) version of this program has a soft limit of ≈25 GB (or ≈64 GB)
