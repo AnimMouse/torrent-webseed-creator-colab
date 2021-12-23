@@ -28,7 +28,6 @@ Combines the best of both worlds (P2P and Direct HTTP Link).
    * File name: The file name of the file you will create a torrent from.
    * Piece size: The size of the torrent pieces in kilobyte or 0 for automatic calculation.
 3. Click play in every cell.
-4. After the last cell, verify it on your Google Drive.
 
 ## URL requirements
 1. URL must be accessible without cookies. [Source](http://www.urlhash.com/)
